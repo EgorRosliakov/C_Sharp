@@ -12,3 +12,10 @@ C:\Users\Yehor\Desktop\Lesson1\Lesson1\obj\Debug\net6.0\refint\Lesson1.dll
 C:\Users\Yehor\Desktop\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.pdb
 C:\Users\Yehor\Desktop\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.genruntimeconfig.cache
 C:\Users\Yehor\Desktop\Lesson1\Lesson1\obj\Debug\net6.0\ref\Lesson1.dll
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.dll
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\refint\Lesson1.dll
+C:\Users\Yehor\Desktop\C_Sharp\Lesson1\Lesson1\obj\Debug\net6.0\Lesson1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\bin\Debug\net6.0\Lesson7.exe
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\bin\Debug\net6.0\Lesson7.deps.json
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\bin\Debug\net6.0\Lesson7.runtimeconfig.json
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\bin\Debug\net6.0\Lesson7.dll
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\bin\Debug\net6.0\Lesson7.pdb
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.dll
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\refint\Lesson7.dll
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.pdb
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\Lesson7.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Lesson7\Lesson7\obj\Debug\net6.0\ref\Lesson7.dll
